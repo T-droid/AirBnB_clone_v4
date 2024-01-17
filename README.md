@@ -72,6 +72,9 @@ No known bugs at this time.
 - Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 - Thomas Wang - [Github](https://github.com/thomaspwang) / [Twitter](https://twitter.com/thpwang)
 
+- Emmanuel Tindi -
+[GitHub](https://github.com/T-droid)
+
 ###### Version 3
 
 - Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
